@@ -18,3 +18,6 @@ There are numerous advantages of using NumPy over Python list:<br>
 - Reshaping and Transposing
 - Sorting Arrays
 - Turning an IMAGE into NumPy Array
+
+### Prerequisites to learn 
+Basic knowledge of Python programming language
