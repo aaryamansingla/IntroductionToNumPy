@@ -1,4 +1,4 @@
-#Introduction to NumPy
+# Introduction to NumPy
 
 ### What is NumPy?
 NumPy is a Python library. NumPy stands for Numerical Python and it provides a multidimensional array object, various derived objects and is helpful for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation, etc.
